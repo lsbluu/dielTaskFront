@@ -1,7 +1,8 @@
 
 # Boas-vindas ao repositório do projeto Diel Task!
 
-Você pode acessar o deploy do projeto :point_right:	 [Diel Task](https://lsbluu.github.io/dielTaskFront/).
+Você pode acessar o deploy do projeto :point_right:	 [Diel Task](https://lsbluu.github.io/dielTaskFront/).<br/>
+OBS: o deploy pode demorar carregar, sendo necessario recarregar a página, isso acontece pois o heroku entra em stand-by.
                         <h1 align="center"><img src="./diel.gif" alt="Markdownify"  width="600"></h1>
 
 
