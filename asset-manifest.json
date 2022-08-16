@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dielTaskFront/static/css/main.cfbf8753.css",
+    "main.js": "/dielTaskFront/static/js/main.49af6a63.js",
+    "index.html": "/dielTaskFront/index.html",
+    "main.cfbf8753.css.map": "/dielTaskFront/static/css/main.cfbf8753.css.map",
+    "main.49af6a63.js.map": "/dielTaskFront/static/js/main.49af6a63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfbf8753.css",
+    "static/js/main.49af6a63.js"
+  ]
+}
