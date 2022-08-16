@@ -1,4 +1,3 @@
-<h1 align="center"><img src="./gifFruits.gif" alt="Markdownify"  width="600"></h1>
 
 # Boas-vindas ao repositório do projeto Diel Task!
 
