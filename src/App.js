@@ -6,6 +6,7 @@ import Search from './components/search';
 
 function App() {
   return (
+    <main className='mainAll'>
     <TaskProvider>
       <BrowserRouter>
       <Search />
@@ -16,6 +17,7 @@ function App() {
       </Routes>
       </BrowserRouter>
     </TaskProvider>
+    </main>
   );
 }
 
