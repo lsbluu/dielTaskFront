@@ -2,6 +2,7 @@
 # Boas-vindas ao repositório do projeto Diel Task!
 
 Você pode acessar o deploy do projeto :point_right:	 [Diel Task](https://lsbluu.github.io/dielTaskFront/).
+                        <h1 align="center"><img src="./diel.gif" alt="Markdownify"  width="600"></h1>
 
 
 
